@@ -1,0 +1,63 @@
+
+.div1 {
+background-color:rgb(0, 0, 0);
+color:white;
+width:200px ;
+height: 150px;
+position:center;
+float:center;
+text-align: center;
+
+}
+
+#div1 {
+    background-color:#333;
+    width:490px ;
+    height: 640px;
+    position:absolute;
+    left:250px;
+    top:250px;
+    }
+    body 
+    {
+    background-image:url(https://images.template.net/91402/black-and-red-background-wo2pu.png) ;
+    color:white;
+
+    }
+
+img{
+border-style: inset;
+width: 900px;
+height:300px ;
+margin-left:10px ;
+margin-right:10px ;
+}
+.name{  font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size: 20px;}
+
+
+    p{ background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));}
+
+    table{
+      
+    }
+    .pro {
+    width:50px;
+
+    }
+
+    button{
+background-color: red;
+color:black;
+border-image-outset:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOyangkZIe1yNo4jxPNjXXZrUBPr-7tJIPA&usqp=CAU);
+    }
+
+    .img {
+        animation: dance 4s infinite;
+        -webkit-animation:dance 4s infinite;
+        -moz-animation:dance 4s infinite;
+        position:absolute;
+        top: 200px;
+        left: 400px;
+      }
